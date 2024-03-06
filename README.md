@@ -26,7 +26,8 @@ on its target customers from different types of customer segments.
 **Deployment:** Render
 
 ### Process Work Flow(Pipeline)
-![image](https://github.com/hassankhan2608/Customer-Personality-Analysis/assets/149296407/feacf65d-b8a2-4491-af15-9e7740b033a6)
+![Project_Arch](https://github.com/hassankhan2608/Customer-Personality-Analysis/assets/149296407/994d5478-b39d-4a85-a16f-f9b867a94e0c)
+
 
 
 
@@ -63,7 +64,7 @@ http://127.0.0.1:5000/
 
 link to demo
 
-https://drive.google.com/file/d/1TDr4CFAr6VKr4aKXBZ4TEgaUsHq_mkMq/view?usp=share_link
+https://drive.google.com/file/d/1NWdSwpT0z7rQjASrwSwQl-y01RxdZmhn/view?usp=drive_link
 ## Documentation
 [High Level Document(HLD)](https://docs.google.com/document/d/150Yny7rxpN2lvkHV3YQzjdIXiLBa5kWzcyG445tvsKA/edit?usp=sharing)
 
