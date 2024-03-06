@@ -23,7 +23,7 @@ on its target customers from different types of customer segments.
 
 **version Control:**  Git, Docker
 
-**Deployment:** Railway 
+**Deployment:** Render
 
 ### Process Work Flow(Pipeline)
 ![image](https://github.com/hassankhan2608/Customer-Personality-Analysis/assets/149296407/feacf65d-b8a2-4491-af15-9e7740b033a6)
@@ -34,11 +34,11 @@ on its target customers from different types of customer segments.
 ### STEP 01- Create a conda environment 
 
 ```bash
-conda create -n cpa python=3.7.10 -y
+conda create -n venv python=3.7.10 -y
 ```
 
 ```bash
-conda activate cpa
+conda activate venv
 ```
 
 
